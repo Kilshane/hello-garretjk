@@ -11,3 +11,4 @@ THe first thing that I notice is that the video do not display correctly when ru
 1. Use git to stage your changes, commit your changes, and push your changes to your remote repository.
 1. Tell your repository to deploy to github pages (see the screenshot and caption below it in the `figure` in `index.html`)
 1. Does the page look the same as it looks when running on your local computer? If not, why not? What can you do to fix it?
+this page looks the same as the one opened on chrome, again the best thing would be to implement a flex box with more rigid styling on all systems/viewport sizes
